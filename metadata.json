@@ -1,0 +1,6 @@
+{
+  "name": "AI 实验室极简版",
+  "description": "极简版AI实验室：集成了风格迁移、换脸、AI扩图、物体移除等智能修图功能、个人中心、作品画廊及热门提示词社区。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
